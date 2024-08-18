@@ -1,3 +1,2 @@
 # my-3D-graphics
-files in Solidworks,
-files in Blender
+files in Solidworks and Blender
